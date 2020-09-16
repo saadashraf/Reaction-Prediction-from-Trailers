@@ -1,0 +1,10 @@
+YoutubeScrapper/vscode/*
+python/_pycache__/*
+python/.vscode/*
+python/out/*
+*.hdf5
+*.mp4
+*.v2
+logs/*
+links.txt
+test.py
