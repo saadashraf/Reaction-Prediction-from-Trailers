@@ -1,0 +1,126 @@
+Epoch 1/5
+  1/180 [..............................] - ETA: 0s - loss: 11.9696 - mse: 11.9696WARNING:tensorflow:From C:\Users\saadb\AppData\Roaming\Python\Python38\site-packages\tensorflow\python\ops\summary_ops_v2.py:1277: stop (from tensorflow.python.eager.profiler) is deprecated and will be removed after 2020-07-01.
+Instructions for updating:
+use `tf.profiler.experimental.stop` instead.
+ 19/180 [==>...........................] - ETA: 57:05 - loss: 2.2554 - mse: 2.2554
+Epoch 00001: loss improved from inf to 2.16703, saving model to model
+WARNING:tensorflow:From C:\Users\saadb\AppData\Roaming\Python\Python38\site-packages\tensorflow\python\training\tracking\tracking.py:111: Model.state_updates (from tensorflow.python.keras.engine.training) is deprecated and will be removed in a future version.
+Instructions for updating:
+This property should not be used in TensorFlow 2.0, as updates are applied automatically.
+WARNING:tensorflow:From C:\Users\saadb\AppData\Roaming\Python\Python38\site-packages\tensorflow\python\training\tracking\tracking.py:111: Layer.updates (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
+Instructions for updating:
+This property should not be used in TensorFlow 2.0, as updates are applied automatically.
+INFO:tensorflow:Assets written to: model\assets
+ 39/180 [=====>........................] - ETA: 52:39 - loss: 1.8229 - mse: 1.8229
+Epoch 00001: loss improved from 2.16703 to 1.77784, saving model to model
+INFO:tensorflow:Assets written to: model\assets
+ 59/180 [========>.....................] - ETA: 46:45 - loss: 1.4584 - mse: 1.4584
+Epoch 00001: loss improved from 1.77784 to 1.44198, saving model to model
+INFO:tensorflow:Assets written to: model\assets
+ 79/180 [============>.................] - ETA: 39:42 - loss: 1.1939 - mse: 1.1939
+Epoch 00001: loss improved from 1.44198 to 1.19217, saving model to model
+INFO:tensorflow:Assets written to: model\assets
+ 99/180 [===============>..............] - ETA: 31:52 - loss: 1.0075 - mse: 1.0075
+Epoch 00001: loss improved from 1.19217 to 1.00259, saving model to model
+INFO:tensorflow:Assets written to: model\assets
+119/180 [==================>...........] - ETA: 23:56 - loss: 0.9214 - mse: 0.9214
+Epoch 00001: loss improved from 1.00259 to 0.92478, saving model to model
+INFO:tensorflow:Assets written to: model\assets
+139/180 [======================>.......] - ETA: 16:00 - loss: 0.8244 - mse: 0.8244
+Epoch 00001: loss improved from 0.92478 to 0.81879, saving model to model
+INFO:tensorflow:Assets written to: model\assets
+159/180 [=========================>....] - ETA: 8:09 - loss: 0.7941 - mse: 0.7941
+Epoch 00001: loss improved from 0.81879 to 0.79242, saving model to model
+INFO:tensorflow:Assets written to: model\assets
+179/180 [============================>.] - ETA: 23s - loss: 0.7434 - mse: 0.7434
+Epoch 00001: loss improved from 0.79242 to 0.74092, saving model to model
+INFO:tensorflow:Assets written to: model\assets
+180/180 [==============================] - 4223s 23s/step - loss: 0.7409 - mse: 0.7409
+Epoch 2/5
+ 19/180 [==>...........................] - ETA: 56:51 - loss: 0.5870 - mse: 0.5870
+Epoch 00002: loss improved from 0.74092 to 0.55785, saving model to model
+INFO:tensorflow:Assets written to: model\assets
+ 39/180 [=====>........................] - ETA: 52:19 - loss: 0.4469 - mse: 0.4469
+Epoch 00002: loss improved from 0.55785 to 0.43581, saving model to model
+INFO:tensorflow:Assets written to: model\assets
+ 59/180 [========>.....................] - ETA: 44:55 - loss: 0.4218 - mse: 0.4218
+Epoch 00002: loss improved from 0.43581 to 0.42201, saving model to model
+INFO:tensorflow:Assets written to: model\assets
+ 79/180 [============>.................] - ETA: 37:56 - loss: 0.3862 - mse: 0.3862
+Epoch 00002: loss improved from 0.42201 to 0.39373, saving model to model
+INFO:tensorflow:Assets written to: model\assets
+ 99/180 [===============>..............] - ETA: 30:34 - loss: 0.3639 - mse: 0.3639
+Epoch 00002: loss improved from 0.39373 to 0.36462, saving model to model
+INFO:tensorflow:Assets written to: model\assets
+119/180 [==================>...........] - ETA: 23:05 - loss: 0.3913 - mse: 0.3913
+Epoch 00002: loss did not improve from 0.36462
+139/180 [======================>.......] - ETA: 15:32 - loss: 0.3609 - mse: 0.3609
+Epoch 00002: loss improved from 0.36462 to 0.35897, saving model to model
+INFO:tensorflow:Assets written to: model\assets
+159/180 [=========================>....] - ETA: 7:58 - loss: 0.3930 - mse: 0.3930
+Epoch 00002: loss did not improve from 0.35897
+179/180 [============================>.] - ETA: 22s - loss: 0.3877 - mse: 0.3877
+Epoch 00002: loss did not improve from 0.35897
+180/180 [==============================] - 4085s 23s/step - loss: 0.3874 - mse: 0.3874
+Epoch 3/5
+ 19/180 [==>...........................] - ETA: 56:14 - loss: 0.5864 - mse: 0.5864
+Epoch 00003: loss did not improve from 0.35897
+ 39/180 [=====>........................] - ETA: 10:53:13 - loss: 0.4265 - mse: 0.4265
+Epoch 00003: loss did not improve from 0.35897
+ 59/180 [========>.....................] - ETA: 6:26:21 - loss: 0.3746 - mse: 0.3746
+Epoch 00003: loss did not improve from 0.35897
+ 79/180 [============>.................] - ETA: 4:10:49 - loss: 0.3446 - mse: 0.3446
+Epoch 00003: loss improved from 0.35897 to 0.35136, saving model to model
+INFO:tensorflow:Assets written to: model\assets
+ 99/180 [===============>..............] - ETA: 2:46:52 - loss: 0.3302 - mse: 0.3302
+Epoch 00003: loss improved from 0.35136 to 0.33102, saving model to model
+INFO:tensorflow:Assets written to: model\assets
+119/180 [==================>...........] - ETA: 3:50:15 - loss: 0.3536 - mse: 0.3536
+Epoch 00003: loss did not improve from 0.33102
+139/180 [======================>.......] - ETA: 2:14:47 - loss: 0.3371 - mse: 0.3371
+Epoch 00003: loss did not improve from 0.33102
+159/180 [=========================>....] - ETA: 1:01:23 - loss: 0.3664 - mse: 0.3664
+Epoch 00003: loss did not improve from 0.33102
+179/180 [============================>.] - ETA: 2:38 - loss: 0.3696 - mse: 0.3696
+Epoch 00003: loss did not improve from 0.33102
+180/180 [==============================] - 28379s 158s/step - loss: 0.3689 - mse: 0.3689
+Epoch 4/5
+ 19/180 [==>...........................] - ETA: 59:28 - loss: 0.5733 - mse: 0.5733
+Epoch 00004: loss did not improve from 0.33102
+ 39/180 [=====>........................] - ETA: 55:25 - loss: 0.4579 - mse: 0.4579
+Epoch 00004: loss did not improve from 0.33102
+ 59/180 [========>.....................] - ETA: 49:21 - loss: 0.4387 - mse: 0.4387
+Epoch 00004: loss did not improve from 0.33102
+ 79/180 [============>.................] - ETA: 41:13 - loss: 0.4232 - mse: 0.4232
+Epoch 00004: loss did not improve from 0.33102
+ 99/180 [===============>..............] - ETA: 33:06 - loss: 0.3987 - mse: 0.3987
+Epoch 00004: loss did not improve from 0.33102
+119/180 [==================>...........] - ETA: 24:51 - loss: 0.4109 - mse: 0.4109
+Epoch 00004: loss did not improve from 0.33102
+139/180 [======================>.......] - ETA: 16:42 - loss: 0.3920 - mse: 0.3920
+Epoch 00004: loss did not improve from 0.33102
+159/180 [=========================>....] - ETA: 8:34 - loss: 0.4111 - mse: 0.4111
+Epoch 00004: loss did not improve from 0.33102
+179/180 [============================>.] - ETA: 24s - loss: 0.3998 - mse: 0.3998
+Epoch 00004: loss did not improve from 0.33102
+180/180 [==============================] - 4360s 24s/step - loss: 0.3989 - mse: 0.3989
+Epoch 5/5
+ 19/180 [==>...........................] - ETA: 59:11 - loss: 0.5649 - mse: 0.5649
+Epoch 00005: loss did not improve from 0.33102
+ 39/180 [=====>........................] - ETA: 52:53 - loss: 0.4162 - mse: 0.4162
+Epoch 00005: loss did not improve from 0.33102
+ 59/180 [========>.....................] - ETA: 46:10 - loss: 0.3877 - mse: 0.3877
+Epoch 00005: loss did not improve from 0.33102
+ 79/180 [============>.................] - ETA: 39:30 - loss: 0.3595 - mse: 0.3595
+Epoch 00005: loss did not improve from 0.33102
+ 99/180 [===============>..............] - ETA: 32:34 - loss: 0.3376 - mse: 0.3376
+Epoch 00005: loss did not improve from 0.33102
+119/180 [==================>...........] - ETA: 24:49 - loss: 0.3626 - mse: 0.3626
+Epoch 00005: loss did not improve from 0.33102
+139/180 [======================>.......] - ETA: 16:50 - loss: 0.3415 - mse: 0.3415
+Epoch 00005: loss did not improve from 0.33102
+159/180 [=========================>....] - ETA: 8:43 - loss: 0.3654 - mse: 0.3654
+Epoch 00005: loss did not improve from 0.33102
+179/180 [============================>.] - ETA: 25s - loss: 0.3580 - mse: 0.3580
+Epoch 00005: loss did not improve from 0.33102
+180/180 [==============================] - 4523s 25s/step - loss: 0.3571 - mse: 0.3571
